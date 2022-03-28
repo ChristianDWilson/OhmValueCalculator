@@ -41,7 +41,6 @@ C:\repos\OhmValueCalculator\OhmValueCalculator-API\bin\Debug\net6.0\Swashbuckle.
 C:\repos\OhmValueCalculator\OhmValueCalculator-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\repos\OhmValueCalculator\OhmValueCalculator-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\repos\OhmValueCalculator\OhmValueCalculator-API\obj\Debug\net6.0\OhmValueCalculator-API.csproj.AssemblyReference.cache
-C:\repos\OhmValueCalculator\OhmValueCalculator-API\obj\Debug\net6.0\ReactTest_api.Properties.Resources.resources
 C:\repos\OhmValueCalculator\OhmValueCalculator-API\obj\Debug\net6.0\OhmValueCalculator-API.csproj.GenerateResource.cache
 C:\repos\OhmValueCalculator\OhmValueCalculator-API\obj\Debug\net6.0\OhmValueCalculator-API.GeneratedMSBuildEditorConfig.editorconfig
 C:\repos\OhmValueCalculator\OhmValueCalculator-API\obj\Debug\net6.0\OhmValueCalculator-API.AssemblyInfoInputs.cache
@@ -58,3 +57,4 @@ C:\repos\OhmValueCalculator\OhmValueCalculator-API\obj\Debug\net6.0\refint\OhmVa
 C:\repos\OhmValueCalculator\OhmValueCalculator-API\obj\Debug\net6.0\OhmValueCalculator-API.pdb
 C:\repos\OhmValueCalculator\OhmValueCalculator-API\obj\Debug\net6.0\OhmValueCalculator-API.genruntimeconfig.cache
 C:\repos\OhmValueCalculator\OhmValueCalculator-API\obj\Debug\net6.0\ref\OhmValueCalculator-API.dll
+C:\repos\OhmValueCalculator\OhmValueCalculator-API\obj\Debug\net6.0\OhmValueCalculator_API.Properties.Resources.resources

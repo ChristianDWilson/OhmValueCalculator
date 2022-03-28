@@ -76,16 +76,16 @@ class OhmValue extends React.Component
                             Band A:
                             <select value={this.state.banda} id="bandADropdown" onChange={this.handleChange}>
                                 <option value="-">-</option>
-                                <option value="black_a">Black</option>
-                                <option value="brown_a">Brown</option>
-                                <option value="red_a">Red</option>
-                                <option value="orange_a">Orange</option>
-                                <option value="yellow_a">Yellow</option>
-                                <option value="green_a">Green</option>
-                                <option value="blue_a">Blue</option>
-                                <option value="violet_a">Violet</option>
-                                <option value="grey_a">Grey</option>
-                                <option value="white_a">White</option>
+                                <option value="black">Black</option>
+                                <option value="brown">Brown</option>
+                                <option value="red">Red</option>
+                                <option value="orange">Orange</option>
+                                <option value="yellow">Yellow</option>
+                                <option value="green">Green</option>
+                                <option value="blue">Blue</option>
+                                <option value="violet">Violet</option>
+                                <option value="grey">Grey</option>
+                                <option value="white">White</option>
                             </select>
                         </label>
                     </div>
@@ -94,16 +94,16 @@ class OhmValue extends React.Component
                             Band B:
                             <select value={this.state.bandb} id="bandBDropdown" onChange={this.handleChange}>
                                 <option value="-">-</option>
-                                <option value="black_b">Black</option>
-                                <option value="brown_b">Brown</option>
-                                <option value="red_b">Red</option>
-                                <option value="orange_b">Orange</option>
-                                <option value="yellow_b">Yellow</option>
-                                <option value="green_b">Green</option>
-                                <option value="blue_b">Blue</option>
-                                <option value="violet_b">Violet</option>
-                                <option value="grey_b">Grey</option>
-                                <option value="white_b">White</option>
+                                <option value="black">Black</option>
+                                <option value="brown">Brown</option>
+                                <option value="red">Red</option>
+                                <option value="orange">Orange</option>
+                                <option value="yellow">Yellow</option>
+                                <option value="green">Green</option>
+                                <option value="blue">Blue</option>
+                                <option value="violet">Violet</option>
+                                <option value="grey">Grey</option>
+                                <option value="white">White</option>
                             </select>
                         </label>
                     </div>
@@ -112,19 +112,19 @@ class OhmValue extends React.Component
                             Band C:
                             <select value={this.state.bandc} id="bandCDropdown" onChange={this.handleChange}>
                                 <option value="-">-</option>
-                                <option value="pink_c">Pink</option>
-                                <option value="silver_c">Silver</option>
-                                <option value="gold_c">Gold</option>
-                                <option value="black_c">Black</option>
-                                <option value="brown_c">Brown</option>
-                                <option value="red_c">Red</option>
-                                <option value="orange_c">Orange</option>
-                                <option value="yellow_c">Yellow</option>
-                                <option value="green_c">Green</option>
-                                <option value="blue_c">Blue</option>
-                                <option value="violet_c">Violet</option>
-                                <option value="grey_c">Grey</option>
-                                <option value="white_c">White</option>
+                                <option value="pink">Pink</option>
+                                <option value="silver">Silver</option>
+                                <option value="gold">Gold</option>
+                                <option value="black">Black</option>
+                                <option value="brown">Brown</option>
+                                <option value="red">Red</option>
+                                <option value="orange">Orange</option>
+                                <option value="yellow">Yellow</option>
+                                <option value="green">Green</option>
+                                <option value="blue">Blue</option>
+                                <option value="violet">Violet</option>
+                                <option value="grey">Grey</option>
+                                <option value="white">White</option>
                             </select>
                         </label>
                     </div>
@@ -133,17 +133,17 @@ class OhmValue extends React.Component
                             Band D:
                             <select value={this.state.bandd} id="bandDDropdown" onChange={this.handleChange}>
                                 <option value="">-</option>
-                                <option value="none_d">None</option>
-                                <option value="silver_d">Silver</option>
-                                <option value="gold_d">Gold</option>
-                                <option value="brown_d">Brown</option>
-                                <option value="red_d">Red</option>
-                                <option value="orange_d">Orange</option>
-                                <option value="yellow_d">Yellow</option>
-                                <option value="green_d">Green</option>
-                                <option value="blue_d">Blue</option>
-                                <option value="violet_d">Violet</option>
-                                <option value="grey_d">Grey</option>
+                                <option value="none">None</option>
+                                <option value="silver">Silver</option>
+                                <option value="gold">Gold</option>
+                                <option value="brown">Brown</option>
+                                <option value="red">Red</option>
+                                <option value="orange">Orange</option>
+                                <option value="yellow">Yellow</option>
+                                <option value="green">Green</option>
+                                <option value="blue">Blue</option>
+                                <option value="violet">Violet</option>
+                                <option value="grey">Grey</option>
                             </select>
                         </label>
 

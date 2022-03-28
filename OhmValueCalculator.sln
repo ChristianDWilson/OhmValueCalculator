@@ -7,6 +7,8 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "OhmValueCalculator", "OhmVa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OhmValueCalculator-API", "OhmValueCalculator-API\OhmValueCalculator-API.csproj", "{1A249E33-ECCC-4501-8D2F-F41B99AFD57A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OhmValueCalculator-test", "OhmValueCalculator-test\OhmValueCalculator-test.csproj", "{2C828330-2001-42D1-BB17-116C2414BCDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{1A249E33-ECCC-4501-8D2F-F41B99AFD57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A249E33-ECCC-4501-8D2F-F41B99AFD57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A249E33-ECCC-4501-8D2F-F41B99AFD57A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C828330-2001-42D1-BB17-116C2414BCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C828330-2001-42D1-BB17-116C2414BCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C828330-2001-42D1-BB17-116C2414BCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C828330-2001-42D1-BB17-116C2414BCDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
